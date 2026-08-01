@@ -14,4 +14,4 @@
 
 GitHub Pagesで`main`ブランチのルートを公開します。公開前に、特商法表記の連絡先・所在地等が実際の運用に合っていることを確認してください。
 
-現在は`index.html`からGitHub Releasesの直接APK配布ページへ案内しています。将来、公開先が変わる場合はこの案内を更新します。
+現在は`index.html`からGitHub Releasesの最新版ページ（`/releases/latest`）へ案内しています。将来、公開先が変わる場合はこの案内を更新します。
