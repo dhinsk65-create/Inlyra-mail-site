@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title>Inlyra Mail</title>
+  <rect width="108" height="108" rx="24" fill="#344A7A"/>
+  <path fill="#fff" d="M29 31h50c3.31 0 6 2.69 6 6v28c0 3.31-2.69 6-6 6H29c-3.31 0-6-2.69-6-6V37c0-3.31 2.69-6 6-6Z"/>
+  <path fill="#344A7A" d="M27 37 54 56l27-19v7L54 63 27 44Z"/>
+  <path d="M44 77c12 3 26 1.5 38-7" fill="none" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round"/>
+  <path d="M52 85c14 2 26-2 35-9" fill="none" stroke="#8B7CF6" stroke-width="5" stroke-linecap="round"/>
+</svg>
