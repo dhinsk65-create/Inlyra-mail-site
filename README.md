@@ -8,10 +8,10 @@
 - `privacy.html` - プライバシーポリシー
 - `commerce.html` - 特定商取引法に基づく表記
 - `support.html` - サポート
-- `en/` - 英語版のホーム・Privacy・Support・Commercial disclosure
+- `en/` - 英語版のホーム・Privacy・Support・App information
 - `assets/inlyra-icon.svg` - アプリと同じブランドアイコン
 - `assets/inbox-screenshot.png` - 実機の受信箱スクリーンショット
 
-GitHub Pagesで`main`ブランチのルートを公開します。公開前に、特商法表記の連絡先・所在地等が実際の運用に合っていることを確認してください。
+GitHub Pagesで`main`ブランチのルートを公開します。公開前に、アプリ情報ページの開発者情報・連絡先等が実際の運用に合っていることを確認してください。
 
 現在は`index.html`からGitHub Releasesの最新版ページ（`/releases/latest`）へ案内しています。将来、公開先が変わる場合はこの案内を更新します。
